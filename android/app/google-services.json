@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037631768371",
+    "project_id": "tournamentmanagement-57c80",
+    "storage_bucket": "tournamentmanagement-57c80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037631768371:android:a8c6919be1f13504152046",
+        "android_client_info": {
+          "package_name": "com.example.tournament_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCu5LpM2Eji8K0RM2W3h88_MrpL46Log"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037631768371:android:6d06a6fce16a90b2152046",
+        "android_client_info": {
+          "package_name": "com.example.tournament_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCu5LpM2Eji8K0RM2W3h88_MrpL46Log"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
