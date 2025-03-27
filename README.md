@@ -19,7 +19,7 @@ The **ArenaFlow** is a Flutter-based application that helps in managing matches 
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/tournament-management.git
+   git clone (https://github.com/rudrapratap19/ArenaFlow/tree/main)
    cd tournament-management
    ```
 
